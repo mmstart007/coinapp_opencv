@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2F6286A506810623499B56C273E216BEE470E87C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "eb976ba2-e6c1-9922-ea13-ce57b7db7bff++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "eb976ba2-e6c1-9922-ea13-ce57b7db7bff++505" : 9223372036854775807,
+    "2F6286A506810623499B56C273E216BEE470E87C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "509F0244-9C4C-4D5D-8460-EB8C76AE77E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "eb976ba2-e6c1-9922-ea13-ce57b7db7bff++505" : "coinapp-opencv-maxim\/",
+    "2F6286A506810623499B56C273E216BEE470E87C" : "CoinApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoinApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoinApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Maga-Design-Group\/coinapp-opencv-maxim",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F6286A506810623499B56C273E216BEE470E87C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Maga-Design-Group\/coinapp-opencv-maxim",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "eb976ba2-e6c1-9922-ea13-ce57b7db7bff++505"
+    }
+  ]
+}

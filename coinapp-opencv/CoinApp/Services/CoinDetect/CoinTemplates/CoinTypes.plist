@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Templates</key>
+	<array>
+		<dict>
+			<key>CoinTypeName</key>
+			<string>Coin Type #1</string>
+			<key>CoinTypeShortName</key>
+			<string>Coin1</string>
+			<key>TemplateImage</key>
+			<string>coin_type_01.png</string>
+			<key>RotateCount</key>
+			<integer>12</integer>
+			<key>FeaturedX</key>
+			<integer>54</integer>
+			<key>FeaturedY</key>
+			<integer>54</integer>
+			<key>FeaturedW</key>
+			<integer>212</integer>
+			<key>FeaturedH</key>
+			<integer>212</integer>
+		</dict>
+		<dict>
+			<key>CoinTypeName</key>
+			<string>Coin Type #2</string>
+			<key>CoinTypeShortName</key>
+			<string>Coin2</string>
+			<key>TemplateImage</key>
+			<string>coin_type_02.png</string>
+			<key>RotateCount</key>
+			<integer>12</integer>
+			<key>FeaturedX</key>
+			<integer>54</integer>
+			<key>FeaturedY</key>
+			<integer>54</integer>
+			<key>FeaturedW</key>
+			<integer>212</integer>
+			<key>FeaturedH</key>
+			<integer>212</integer>
+		</dict>
+		<dict>
+			<key>CoinTypeName</key>
+			<string>Coin Type #3</string>
+			<key>CoinTypeShortName</key>
+			<string>Coin3</string>
+			<key>TemplateImage</key>
+			<string>coin_type_03.png</string>
+			<key>RotateCount</key>
+			<integer>12</integer>
+			<key>FeaturedX</key>
+			<integer>54</integer>
+			<key>FeaturedY</key>
+			<integer>54</integer>
+			<key>FeaturedW</key>
+			<integer>212</integer>
+			<key>FeaturedH</key>
+			<integer>212</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
